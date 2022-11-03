@@ -3,3 +3,5 @@ rules:
   - base: master
     upstream: gchq:master    # change `wei` to the owner of upstream repo
     mergeMethod: merge
+    conflictReviewers:
+    - illixion
