@@ -128,6 +128,8 @@ import "./tests/NTLM.mjs";
 import "./tests/Shuffle.mjs";
 import "./tests/FletcherChecksum.mjs";
 import "./tests/CMAC.mjs";
+import "./tests/AESKeyWrap.mjs";
+import "./tests/Rabbit.mjs";
 
 // Cannot test operations that use the File type yet
 // import "./tests/SplitColourChannels.mjs";
