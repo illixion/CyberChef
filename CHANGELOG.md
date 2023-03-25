@@ -13,6 +13,19 @@ All major and minor version changes will be documented in this file. Details of 
 
 ## Details
 
+### [10.4.0] - 2023-03-24
+- Added 'Generate De Bruijn Sequence' operation [@gchq77703] | [#493]
+
+### [10.3.0] - 2023-03-24
+- Added 'Argon2' and 'Argon2 compare' operations [@Xenonym] | [#661]
+
+### [10.2.0] - 2023-03-23
+- Added 'Derive HKDF key' operation [@mikecat] | [#1528]
+
+### [10.1.0] - 2023-03-23
+- Added 'Levenshtein Distance' operation [@mikecat] | [#1498]
+- Added 'Swap case' operation [@mikecat] | [#1499]
+
 ## [10.0.0] - 2023-03-22
 - [Full details explained here](https://github.com/gchq/CyberChef/wiki/Character-encoding,-EOL-separators,-and-editor-features)
 - Status bars added to the Input and Output [@n1474335] | [#1405]
@@ -358,6 +371,10 @@ All major and minor version changes will be documented in this file. Details of 
 
 
 
+[10.4.0]: https://github.com/gchq/CyberChef/releases/tag/v10.4.0
+[10.3.0]: https://github.com/gchq/CyberChef/releases/tag/v10.3.0
+[10.2.0]: https://github.com/gchq/CyberChef/releases/tag/v10.2.0
+[10.1.0]: https://github.com/gchq/CyberChef/releases/tag/v10.1.0
 [10.0.0]: https://github.com/gchq/CyberChef/releases/tag/v10.0.0
 [9.55.0]: https://github.com/gchq/CyberChef/releases/tag/v9.55.0
 [9.54.0]: https://github.com/gchq/CyberChef/releases/tag/v9.54.0
@@ -505,6 +522,8 @@ All major and minor version changes will be documented in this file. Details of 
 [@valdelaseras]: https://github.com/valdelaseras
 [@brun0ne]: https://github.com/brun0ne
 [@joostrijneveld]: https://github.com/joostrijneveld
+[@Xenonym]: https://github.com/Xenonym
+[@gchq77703]: https://github.com/gchq77703
 
 [8ad18b]: https://github.com/gchq/CyberChef/commit/8ad18bc7db6d9ff184ba3518686293a7685bf7b7
 [9a33498]: https://github.com/gchq/CyberChef/commit/9a33498fed26a8df9c9f35f39a78a174bf50a513
@@ -617,4 +636,9 @@ All major and minor version changes will be documented in this file. Details of 
 [#1466]: https://github.com/gchq/CyberChef/pull/1466
 [#1456]: https://github.com/gchq/CyberChef/pull/1456
 [#1450]: https://github.com/gchq/CyberChef/pull/1450
+[#1498]: https://github.com/gchq/CyberChef/pull/1498
+[#1499]: https://github.com/gchq/CyberChef/pull/1499
+[#1528]: https://github.com/gchq/CyberChef/pull/1528
+[#661]: https://github.com/gchq/CyberChef/pull/661
+[#493]: https://github.com/gchq/CyberChef/pull/493
 
